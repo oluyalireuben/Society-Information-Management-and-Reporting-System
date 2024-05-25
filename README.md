@@ -18,6 +18,9 @@ To install SIMRS, follow these steps:
 3. Connect Firebase to the project and configure necessary settings.
 4. Build and run the application on your Android device or emulator.
 
+   ## Download
+[Click here to download the app](your-download-link)
+
 ## Usage
 1. Upon launching the application, users will be prompted to sign in or create an account.
 2. Once logged in, users can navigate through the different features of the application, including accessing information, managing society data, registering cases, and applying for jobs.
