@@ -1,5 +1,5 @@
 # Society Information Management and Reporting System (SIMRS)
-A community portal App that allows one to register as Resident, Authority or as Third party and Access the respective UI Dashboards.
+The App that allows one to register as Resident, Authority or as Third party and Access the respective UI Dashboards.
 ## Overview
 Society Information Management and Reporting System (SIMRS) is an Android application designed to address the issue of inadequate accessibility and management of societal information. The platform aims to bridge the gap between authorities and society by providing a free, easy-to-use platform for managing relevant data and reporting illegal activities.
 
