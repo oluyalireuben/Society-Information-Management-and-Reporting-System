@@ -26,6 +26,11 @@ To install SIMRS, follow these steps:
 3. Users can report illegal activities by utilizing the reporting feature within the app.
 4. Employers can post job vacancies, and interested individuals can apply for jobs directly through the platform.
 
+
+
+## Download
+[Click here to download the app]()
+
 ## Contributing
 Contributions to SIMRS are welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
 
